@@ -1,3 +1,4 @@
+# Dunnet Game
 ## Introduction
 * To play with the original [dunnet game](https://en.wikipedia.org/wiki/Dunnet_(video_game)) in emacs, just type the command below.
 ```shell=
