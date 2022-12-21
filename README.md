@@ -3,7 +3,7 @@
 ```shell=
 emacs -batch -l dunnet
 ```
-* This program is meant to simulate dunnet game by C shell script only.
+* This program simulates the dunnet game by only using C shell script to manipulate some file structure.
 * It only tested properly under Ubuntu Linux, we could not assure whether it could be executed under other UNIX-based systems.
 
 ## Procedure to execute
